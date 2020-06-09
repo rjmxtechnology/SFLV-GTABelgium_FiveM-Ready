@@ -4,7 +4,8 @@ Also includes limits resource to fix cars breaking down outside the "world limit
 
 All credits go to [GTA Belgium on GTA-5Mods.com](https://www.gta5-mods.com/maps/las-venturas-san-fierro-dlc-remastered)
 
-~~Released on cfx.re forums at this link~ (They closed the topic and said it wasn't allowed as it was unoriginal so it is only here now)
+~~Released on cfx.re forums at this link~~ 
+(Moderators closed the topic and said it wasn't allowed as it was unoriginal so it is only here now)
 
 *NOTE: **this is a quite resource intensive addon map for a FiveM server as it was not designed with the intention to be streamed to FiveM to begin with***
 ----
