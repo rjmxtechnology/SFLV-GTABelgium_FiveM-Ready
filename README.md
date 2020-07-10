@@ -13,8 +13,9 @@ According to [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo) turning down "e
 See his comment [here](https://github.com/rjmxtechnology/SFLV-GTABelgium_FiveM-Ready/issues/1#issue-653727984) for more information
 
 ----
-*REPORTED ISSUES*
-Discovered by [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo), there could be some invisible objects with collisions at (X:6990.9735,Y:10056.08889,Z:10.1683)
+**POTENTIAL ISSUES**
+(Just like above I am unable to test this so someone else will have to confirm it)
+Reported by [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo), there could be some invisible objects with collisions at (X:6990.9735,Y:10056.08889,Z:10.1683)
 
 
 ----
