@@ -9,6 +9,7 @@ According to [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo) turning down "e
 
 See his comment [here](https://github.com/rjmxtechnology/SFLV-GTABelgium_FiveM-Ready/issues/1#issue-653727984) for more information
 
+----
 
 ~~Released on cfx.re forums at this link~~ 
 (Moderators closed the topic...)
