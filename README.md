@@ -4,6 +4,8 @@ Also includes limits resource to fix cars breaking down outside the "world limit
 
 All credits go to [GTA Belgium on GTA-5Mods.com](https://www.gta5-mods.com/maps/las-venturas-san-fierro-dlc-remastered)
 
+----
+
 **POSSIBLE PERFORMANCE IMPROVEMENT!!**
 According to [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo) turning down "extended distance scaling" (I assume in the pause menu settings?) makes a big difference in performance, so you should try this to see if it may help you in that aspect (I can't test it for myself, but I am hoping to get a screenshot of where to find that option in the paused menu settings.
 
