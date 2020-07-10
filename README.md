@@ -7,12 +7,17 @@ All credits go to [GTA Belgium on GTA-5Mods.com](https://www.gta5-mods.com/maps/
 ----
 
 **POSSIBLE PERFORMANCE IMPROVEMENT!!**
+
 According to [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo) turning down "extended distance scaling" (I assume in the pause menu settings?) makes a big difference in performance, so you should try this to see if it may help you in that aspect (I can't test it for myself, but I am hoping to get a screenshot of where to find that option in the paused menu settings.
 
 See his comment [here](https://github.com/rjmxtechnology/SFLV-GTABelgium_FiveM-Ready/issues/1#issue-653727984) for more information
 
 ----
+*REPORTED ISSUES*
+Discovered by [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo), there could be some invisible objects with collisions at (X:6990.9735,Y:10056.08889,Z:10.1683)
 
+
+----
 ~~Released on cfx.re forums at this link~~ 
 (Moderators closed the topic...)
 
