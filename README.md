@@ -10,6 +10,11 @@ All credits go to [GTA Belgium on GTA-5Mods.com](https://www.gta5-mods.com/maps/
 
 According to [ReadyP1ayerTwo](https://github.com/ReadyP1ayerTwo) turning down "extended distance scaling" (I assume in the pause menu settings?) makes a big difference in performance, so you should try this to see if it may help you in that aspect (I can't test it for myself, but I am hoping to get a screenshot of where to find that option in the paused menu settings.
 
+Exact location of "Extended Distance Scaling" in Pause Settings
+[<img src="https://i.imgur.com/wOLG2ld.png">]
+
+
+
 See his comment [here](https://github.com/rjmxtechnology/SFLV-GTABelgium_FiveM-Ready/issues/1#issue-653727984) for more information
 
 ----
