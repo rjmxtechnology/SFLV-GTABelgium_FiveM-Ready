@@ -1,3 +1,5 @@
+# No longer maintaining this or supporting it, it is provided as is
+
 # GTA Belgium's San Fierro and Las Venturas Remastered Map Add-On  (FiveM-ready)
 GTA Belgium's San Fierro and Las Venturas Remastered addon , which I compressed the textures and put into a FiveM resource (not optimized for FiveM by any means). 
 Also includes limits resource to fix cars breaking down outside the "world limits".
